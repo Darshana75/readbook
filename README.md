@@ -1,4 +1,4 @@
-# Readbook 📚 - Online Social Network Library System 
+# Readbook - Online Social Network Library System 📚
 
 A social network platform for readers, authors and learners to interact, share and discuss books and knowledge — developed as a group assignment for Web-Based Application Development at NSBM Green University. Enhanced my teamwork and backend development skills while contributing to an innovative solution for social reading.
 
@@ -49,7 +49,7 @@ Email: jrr@gmail.com
 Password: jrr123
 
 ## 📖 Documentation
-[ReadBook_Documentation.pdf](https://github.com/user-attachments/files/21522967/ReadBook_Documentation.pdf)
+[Readbook Documentation] (https://github.com/user-attachments/files/21522967/ReadBook_Documentation.pdf)
 
 ## 📄 License
 This project is for educational purposes only.
