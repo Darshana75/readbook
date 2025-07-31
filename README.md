@@ -44,7 +44,6 @@ Import the SQL file: readbook_db.sql
 
 4. Run the Project
 http://localhost/readbook
-
 Email: jrr@gmail.com
 Password: jrr123
 
