@@ -49,7 +49,7 @@ Email: jrr@gmail.com
 Password: jrr123
 
 ## 📖 Documentation
-[Readbook Documentation] (https://github.com/user-attachments/files/21522967/ReadBook_Documentation.pdf)
+[ReadBook_Documentation.pdf](https://github.com/user-attachments/files/21523013/ReadBook_Documentation.pdf)
 
 ## 📄 License
 This project is for educational purposes only.
